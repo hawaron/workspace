@@ -1,4 +1,4 @@
-workspace
-=========
-
 Workspace files
+===============
+
+Configuration scripts etc.
